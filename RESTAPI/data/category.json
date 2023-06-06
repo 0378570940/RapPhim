@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "category": "Truyện Anime",
+    "createdAt": "19/2/2005",
+    "updatedAt": "25/08/2005",
+    "active": true
+  },
+  {
+    "category": "Truyện trinh thám",
+    "createdAt": "28/02/2023",
+    "updatedAt": "28/02/2023",
+    "id": 2
+  },
+  {
+    "category": "Truyện trinh thám",
+    "createdAt": "28/02/2023",
+    "updatedAt": "28/02/2073",
+    "id": 3
+  }
+]

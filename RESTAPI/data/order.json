@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "createdAt": "",
+    "updatedAt": "",
+    "total": 100000,
+    "orderDetails": [
+      {
+        "name": "",
+        "productId": 1,
+        "price": 10000,
+        "qty": 1
+      }
+    ]
+  }
+]

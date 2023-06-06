@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Anh Việt",
+    "account": "admin",
+    "password": "123456",
+    "gmail": "viet001@gmail.com",
+    "date": "24/10/2021",
+    "dateex": "24/10/2050"
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn Việt Anh",
+    "account": "admin1",
+    "password": "123456",
+    "gmail": "viet001@gmail.com",
+    "date": "24/10/2022",
+    "dateex": "24/10/2051"
+  },
+  {
+    "id": 3,
+    "name": "Nguyễn Văn A",
+    "account": "admin3",
+    "password": "123456",
+    "gmail": "viet001@gmail.com",
+    "date": "24/10/2020",
+    "dateex": "24/10/2050"
+  },
+  {
+    "id": 4,
+    "name": "Nguyễn Văn kiên",
+    "account": "admin4",
+    "password": "123456",
+    "gmail": "viet001@gmail.com",
+    "date": "24/10/2019",
+    "dateex": "24/10/2050"
+  },
+  {
+    "id": 4,
+    "name": "Nguyễn Văn kiên",
+    "account": "admin4",
+    "password": "123456",
+    "gmail": "viet001@gmail.com",
+    "date": "24/10/2019",
+    "dateex": "24/10/2050"
+  },
+  {
+    "name": "Anh Việt",
+    "account": "admin5",
+    "password": "123456",
+    "gmail": "anh123@gmail.com",
+    "date": "28/02/2023",
+    "dateex": "28/02/2093",
+    "id": 5
+  }
+]
